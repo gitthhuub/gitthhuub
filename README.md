@@ -5,8 +5,7 @@
 As an accomplished and self-motivated MERN Stack developer, I have honed my skills in crafting dynamic and engaging user interfaces utilizing industry-leading libraries and frameworks. With a proven track record of success, I possess a deep understanding of the MERN (MongoDB, Express.js, React.js, Node.js) stack and its capabilities.
     </h4>
     <br />
-
-   
+ ## ❤ Views and Followers
 ## :bar_chart: Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gitthhuub&count_private=true&show_icons=true&theme=onedark" alt="Sarita Kumari" />
@@ -49,7 +48,7 @@ As an accomplished and self-motivated MERN Stack developer, I have honed my skil
 ### :writing_hand: Random Dev Quote
 
 
-"Change the way you look at things and the things you look at change." 4. "With everything that has happened to you, you can feel sorry for yourself or treat what has happened as a gift. Everything is either an opportunity to grow or an obstacle to keep you from growing.19-Jul-2016
+"Change the way you look at things and the things you look at change."With everything that has happened to you, you can feel sorry for yourself or treat what has happened as a gift. Everything is either an opportunity to grow or an obstacle to keep you from growing.
 
 
 # [Portfolio]
