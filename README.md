@@ -48,7 +48,8 @@ As an accomplished and self-motivated MERN Stack developer, I have honed my skil
 
 ### :writing_hand: Random Dev Quote
 
-![Random Dev Quote](https://programming-quotes-api.herokuapp.com/quotes/random)
+
+"Change the way you look at things and the things you look at change." 4. "With everything that has happened to you, you can feel sorry for yourself or treat what has happened as a gift. Everything is either an opportunity to grow or an obstacle to keep you from growing.19-Jul-2016
 
 
 # [Portfolio]
