@@ -51,7 +51,7 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://random-dev-quote.vercel.app/api/quote)]
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)]
 
 
 # [Portfolio]
