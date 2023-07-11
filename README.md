@@ -51,5 +51,7 @@ As an accomplished and self-motivated MERN Stack developer, I have honed my skil
 "Change the way you look at things and the things you look at change."With everything that has happened to you, you can feel sorry for yourself or treat what has happened as a gift. Everything is either an opportunity to grow or an obstacle to keep you from growing.
 
 
-# [Portfolio]
+
+<a href="https://64ac016a7ecdb916c85a1c47--curious-dieffenbachia-661d70.netlify.app/">Portfolio</a>
+
 https://64ac016a7ecdb916c85a1c47--curious-dieffenbachia-661d70.netlify.app/
