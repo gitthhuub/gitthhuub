@@ -32,7 +32,7 @@ As an accomplished and self-motivated MERN Stack developer, I have honed my skil
 
 ## Connect with me:
 <p align="left">  
-<a href="https://www.linkedin.com/in/sarita-kumari-b4487a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarita-kumari-b4487a202/" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/saritakumarii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarita-kumari-b4487a202/" height="30" width="40" /></a> 
 </p>
 
 ## ❤ Views and Followers
