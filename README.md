@@ -3,7 +3,8 @@
     <h4 align="center">
 
 <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="MasterHead" style="max-width: 100%;">
-
+<br />
+<br />
       
 As an accomplished and self-motivated MERN Stack developer, I have honed my skills in crafting dynamic and engaging user interfaces utilizing industry-leading libraries and frameworks. With a proven track record of success, I possess a deep understanding of the MERN (MongoDB, Express.js, React.js, Node.js) stack and its capabilities.
     </h4>
