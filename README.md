@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at  [https://gitthhuub.github.io/](https://gitthhuub.github.io/)/)
 
-- 💬 Ask me about ** HTML Css JavaScript React.js Node.js & JAVA**
+- 💬 Ask me about ** HTML Css JavaScript React.js Node.js & Java**
 
 - 📫 How to reach me **sarita44us@gmail.com**
 
