@@ -9,8 +9,9 @@
 
 
 <p align="center">Passionate and detail-oriented full-stack developer with a focus on Java, HTML, CSS, JavaScript, and React. I have a passion for writing clean code and creating engaging user interfaces. From frontend design to backend functionality, I thrive on building dynamic web applications. With a strong dedication to my craft, I'm eager to contribute my skills and bring ideas to life.</p>
-<br />
-<br />
+<br/>
+<br/>
+
 - 🔭 I’m currently working on **My Personal Development**
 
 - 🌱 I’m currently learning **Node.js Express and Database**
