@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **My Personal Development**
 
-- 🌱 I’m currently learning **HTML Java and React.js**
+- 🌱 I’m currently learning **Node.js Express and Database**
 
 - 👨‍💻 All of my projects are available at  [https://gitthhuub.github.io/](https://gitthhuub.github.io/)/)
 
-- 💬 Ask me about **React.js Node.js HTML CSS JavaScript & JAVA**
+- 💬 Ask me about ** HTML Css JavaScript React.js Node.js & JAVA**
 
 - 📫 How to reach me **sarita44us@gmail.com**
 
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /> -->
 </div>
 
 
