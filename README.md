@@ -1,12 +1,13 @@
 
 <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="MasterHead" style="max-width: 100%;">
-<br />
-<br />
+
 
 <h1 align="center">Hi 👋, I'm Sarita Kumari</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
 </p>
+
+
 <p align="center">Passionate and detail-oriented full-stack developer with a focus on Java, HTML, CSS, JavaScript, and React. I have a passion for writing clean code and creating engaging user interfaces. From frontend design to backend functionality, I thrive on building dynamic web applications. With a strong dedication to my craft, I'm eager to contribute my skills and bring ideas to life.</p>
 
 - 🔭 I’m currently working on **My Personal Development**
