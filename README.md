@@ -1,61 +1,84 @@
- <h1 align="center">Hi :wave:, I'm Sarita Kumari</h1>
- <br/>
-    <h4 align="center">
+<h1 align="center">Hi 👋, I'm Sarita Kumari</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
+</p>
+<p align="center">Passionate and detail-oriented full-stack developer with a focus on Java, HTML, CSS, JavaScript, and React. I have a passion for writing clean code and creating engaging user interfaces. From frontend design to backend functionality, I thrive on building dynamic web applications. With a strong dedication to my craft, I'm eager to contribute my skills and bring ideas to life.</p>
 
-<img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="MasterHead" style="max-width: 100%;">
-<br />
-<br />
-      
-As an accomplished and self-motivated MERN Stack developer, I have honed my skills in crafting dynamic and engaging user interfaces utilizing industry-leading libraries and frameworks. With a proven track record of success, I possess a deep understanding of the MERN (MongoDB, Express.js, React.js, Node.js) stack and its capabilities.
-    </h4>
-    <br />
- ## ❤ Views and Followers
-## :bar_chart: Github Stats
-<div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gitthhuub&count_private=true&show_icons=true&theme=onedark" alt="Sarita Kumari" />
-    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=gitthhuub&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="Sarita Kumari" />
-    
+- 🔭 I’m currently working on **My Personal Development**
+
+- 🌱 I’m currently learning **HTML Java and React.js**
+
+- 👨‍💻 All of my projects are available at  [https://gitthhuub.github.io/](https://gitthhuub.github.io/)/)
+
+- 💬 Ask me about **React.js Node.js HTML CSS JavaScript & JAVA**
+
+- 📫 How to reach me **sarita44us@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/16zXS9J4UYr8sNg-qYeLXtmAw50Mp-DGw/view?usp=sharing](https://drive.google.com/file/d/16zXS9J4UYr8sNg-qYeLXtmAw50Mp-DGw/view?usp=sharing)
+
+## 🏆 Trophies :
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitthhuub&theme=onedarkx" alt="gitthhuub" /></a> </p>
+
+## 👨‍💻 TECH STACK :
+
+<div align="center" style="display: flex; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </div>
 
-## :trophy: Trophies:
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitthhuub&theme=onedark" alt="gitthhuub" /></a> </p>
 
-## TECH STACK :
+## ✅ Github Stats :
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=gitthhuub&theme=radical&border_radius=2.7&show_icons=true" alt="gitthhuub" />
 
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-
-## Connect with me:
-<p align="left">  
-<a href="https://www.linkedin.com/in/saritakumarii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarita-kumari-b4487a202/" height="30" width="40" /></a> 
-</p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/gitthhuub/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gitthhuub">
-</a>
-<a href="https://github.com/gitthhuub?tab=followers"><img src="https://img.shields.io/github/followers/gitthhuub?label=Followers&style=social" alt="GitHub Badge"></a>
-
- <hr/>
-
-
-### :writing_hand: Random Dev Quote
-
-
-"Change the way you look at things and the things you look at change."With everything that has happened to you, you can feel sorry for yourself or treat what has happened as a gift. Everything is either an opportunity to grow or an obstacle to keep you from growing.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitthhuub&theme=radical&border_radius=2.7" alt="Sarita Kumari's GitHub Contribution"/>
 
 
 
-<h1><a href="https://gitthhuub.github.io/">Portfolio</a></h1>
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitthhuub&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=2.7" alt="gitthhuub" />
 
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitthhuub&theme=radical&border_radius=2.7" alt="gitthhuub" />
 
+</div>
+
+<h2>🌍 Connect with me :</h2>
+   <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saritakumarii/" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/linkedin.png"
+                alt="https://www.linkedin.com/in/saritakumarii/" width="40px" />
+        </a>
+        <a href="https://github.com/gitthhuub" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/github.png"
+                alt="https://github.com/gitthhuub" width="40px"/>
+        </a>
+    </p>
+    <h2>❤ Views and Followers :</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/gitthhuub/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=gitthhuub">
+    </a>
+    <a href="https://github.com/gitthhuub?tab=followers">
+        <img src="https://img.shields.io/github/followers/gitthhuub?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+    <hr />
+    <h2><a href="https://gitthhuub.github.io/">🌍 | Portfolio </a></h2>
